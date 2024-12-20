@@ -2,7 +2,7 @@ import dashboardIMG from '../assets/dashboard.png'
 
 function FirstPage() {
   return (
-    <div className=" relative w-full  h-[630px] bg-[#204E4D] rounded-xl text-center text-white">
+    <div className=" relative w-full  h-[700px] bg-[#204E4D] rounded-xl text-center text-white">
     <p className="text-sm pt-20"><span className="text-[#D5FDB1] font-bold m-2 text-2xl">.</span>meet the leading</p>
     <p className="text-4xl">One Plateform<br/>Unlimited Potential</p>
     <p className='text-gray-300 text-sm mt-2'>prosper's Plateform of software and services lays the <br/> groundwork so you can focus on building the future.</p>
